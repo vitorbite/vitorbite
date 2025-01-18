@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @vitorbite
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+
+
+- 👋 Oi, Meu nome é Vítor e estou aprendendo JavaScript 😎
+  
+- 😀 Pronomes: Ele/Dele
+- ⚡ Fato divertido: Sou dedicado aos estudos
 
 <!---
 vitorbite/vitorbite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
