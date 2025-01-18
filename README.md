@@ -1,6 +1,6 @@
 
 
-- 👋 Oi, Meu nome é Vítor e estou aprendendo JavaScript 😎
+- 👋 Oi, Meu nome é Vítor e estou aprendendo **JavaScript** 😎
   
 - 😀 Pronomes: Ele/Dele
 - ⚡ Fato divertido: Sou dedicado aos estudos
