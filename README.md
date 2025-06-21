@@ -2,7 +2,7 @@
   <h1>Bem-vindo ao meu perfil!</h1>
 
 - 👋 Oi, Meu nome é Vítor e estou aprendendo **Desenvolvimento Web** 😎
-- 😀 Pronomes: Ele/Dele
+- Tenho interesse em estudar novas tecnologias para criar interfaces mais interessantes com maior facilidade 💻
 - ⚡ Fato divertido: Sou dedicado aos estudos
 
 ## Minhas Tecnologias
