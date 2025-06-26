@@ -2,6 +2,18 @@
   <h1>Bem-vindo ao meu perfil!</h1>
 
 - 👋 Oi, Meu nome é Vítor e estou aprendendo **Desenvolvimento Web** 😎
+
+---
+
+### Sobre Mim 
+Sou um Desenvolvedor Frontend e Estudante de Engenharia de Software apaixonado por desenvolvimento web. Adoro transformar ideias em realidade através do código e estou sempre em busca de novos desafios e aprendizados. 
+
+* **Atualmente:** [O que você está fazendo agora? Ex: Estudando 
+Python, trabalhando em um projeto X, procurando novas oportunidades]. 
+* **Interesses:** [Seus interesses, ex: Desenvolvimento de jogos, 
+Machine Learning, UI/UX, contribuições open-source]. 
+* **Aprendendo:** [O que você está aprendendo ou quer aprender em 
+breve? Ex: Go, Flutter, Kubernetes]. 
 - Tenho interesse em estudar novas tecnologias para criar interfaces mais interessantes com maior facilidade 💻
 - ⚡ Fato divertido: Sou dedicado aos estudos
 
@@ -19,6 +31,9 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
 </p>
+
+### Conecte-se Comigo! 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vitor-bitencourt-de-andrade)
 
 <!---
 vitorbite/vitorbite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
