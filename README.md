@@ -12,7 +12,6 @@ Sou um Desenvolvedor Frontend e Estudante de Engenharia de Software apaixonado p
 * **Interesses:** Desenvolvimento Mobile | Tenho interesse em estudar novas tecnologias para criar interfaces mais interessantes com maior facilidade.💻 
 * **Aprendendo:** React, Typescript e React Native. 
 
-- Tenho interesse em estudar novas tecnologias para criar interfaces mais interessantes com maior facilidade 💻
 - ⚡ Fato divertido: Sou dedicado aos estudos
 
 ---
