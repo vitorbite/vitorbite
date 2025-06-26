@@ -8,14 +8,14 @@
 ### Sobre Mim 
 Sou um Desenvolvedor Frontend e Estudante de Engenharia de Software apaixonado por desenvolvimento web. Adoro transformar ideias em realidade através do código e estou sempre em busca de novos desafios e aprendizados. 
 
-* **Atualmente:** [O que você está fazendo agora? Ex: Estudando 
-Python, trabalhando em um projeto X, procurando novas oportunidades]. 
-* **Interesses:** [Seus interesses, ex: Desenvolvimento de jogos, 
-Machine Learning, UI/UX, contribuições open-source]. 
-* **Aprendendo:** [O que você está aprendendo ou quer aprender em 
-breve? Ex: Go, Flutter, Kubernetes]. 
+* **Atualmente:** Estudando React e novas tecnologias.
+* **Interesses:** Desenvolvimento Mobile, UI/UX. 
+* **Aprendendo:** React, Typescript e React Native. 
+
 - Tenho interesse em estudar novas tecnologias para criar interfaces mais interessantes com maior facilidade 💻
 - ⚡ Fato divertido: Sou dedicado aos estudos
+
+---
 
 ## Minhas Tecnologias
 <p align="left">
