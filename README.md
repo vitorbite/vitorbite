@@ -35,7 +35,6 @@ Sou um Desenvolvedor Frontend e Estudante de Engenharia de Software apaixonado p
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
 </p>
 
-
 ### Conecte-se Comigo! 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vitor-bitencourt-de-andrade)
 
