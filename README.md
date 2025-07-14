@@ -42,5 +42,10 @@ Sou um Desenvolvedor Frontend e Estudante de Engenharia de Software apaixonado p
 vitorbite/vitorbite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbite&theme=radical)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorbite&show_icons=true&theme=radical)
+
+| Estatísticas | Gráfico de Atividade |
+|--------------|----------------------|
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbite&theme=chartreuse-dark" width="100%">   | ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=vitorbite&theme=chartreuse-dark&hide_border=true&area=true) |
+
