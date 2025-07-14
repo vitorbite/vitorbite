@@ -47,5 +47,5 @@ You can click the Preview link to take a look at your changes.
 
 | Estatísticas | Gráfico de Atividade |
 |--------------|----------------------|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbite&theme=chartreuse-dark" width="100%">   | ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=vitorbite&theme=chartreuse-dark&hide_border=true&area=true) |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbite&theme=chartreuse-dark" width="500">   | <img src="https://github-readme-activity-graph.vercel.app/graph?username=vitorbite&theme=chartreuse-dark&hide_border=true&area=true" height="500"> |
 
