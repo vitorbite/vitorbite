@@ -49,10 +49,3 @@ You can click the Preview link to take a look at your changes.
 |--------------|----------------------|
 | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbite&theme=chartreuse-dark" width="500">   | <img src="https://github-readme-activity-graph.vercel.app/graph?username=vitorbite&theme=chartreuse-dark&hide_border=true&area=true" height="500"> |
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorbite/vitorbite/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorbite/vitorbite/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vitorbite/vitorbite/output/pacman-contribution-graph.svg">
-</picture>
-
-
