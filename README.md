@@ -26,7 +26,8 @@ Sou um Desenvolvedor Frontend e Estudante de Engenharia de Software apaixonado p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40">
   <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS" width="50" height="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="40" height="40"/>
+
 </p>
 
 ### O Que Estou Aprendendo
