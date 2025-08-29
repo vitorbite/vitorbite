@@ -35,6 +35,7 @@ Sou um Desenvolvedor Frontend e Estudante de Engenharia de Software apaixonado p
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
 </p>
 
 ### Conecte-se Comigo! 
