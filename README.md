@@ -48,6 +48,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorbite&show_icons=true&theme=radical)
 
+
 | Estatísticas | Gráfico de Atividade |
 |--------------|----------------------|
 | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbite&theme=chartreuse-dark" width="500">   | <img src="https://github-readme-activity-graph.vercel.app/graph?username=vitorbite&theme=chartreuse-dark&hide_border=true&area=true" height="500"> |
