@@ -46,10 +46,10 @@ vitorbite/vitorbite is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorbite&show_icons=true&theme=radical)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=vitorbite&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 
 | Estatísticas | Gráfico de Atividade |
 |--------------|----------------------|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbite&theme=chartreuse-dark" width="500">   | <img src="https://github-readme-activity-graph.vercel.app/graph?username=vitorbite&theme=chartreuse-dark&hide_border=true&area=true" height="500"> |
+| [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vitorbite&theme=chartreuse-dark)](https://github.com/Pranesh-2005/github-readme-stats)  | <img src="https://github-readme-activity-graph.vercel.app/graph?username=vitorbite&theme=chartreuse-dark&hide_border=true&area=true" height="500"> |
 
