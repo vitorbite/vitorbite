@@ -51,5 +51,5 @@ You can click the Preview link to take a look at your changes.
 
 | Estatísticas | Gráfico de Atividade |
 |--------------|----------------------|
-| [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vitorbite&theme=chartreuse-dark)](https://github.com/Pranesh-2005/github-readme-stats)  | <img src="https://github-readme-activity-graph.vercel.app/graph?username=vitorbite&theme=chartreuse-dark&hide_border=true&area=true" height="500"> |
+|<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vitorbite&theme=chartreuse-dark" width="400"> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=vitorbite&theme=chartreuse-dark&hide_border=true&area=true" height="500"> |
 
