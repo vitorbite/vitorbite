@@ -40,10 +40,7 @@ Sou um Desenvolvedor Frontend e Estudante de Engenharia de Software apaixonado p
 ### Conecte-se Comigo! 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vitor-bitencourt-de-andrade)
 
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=vitorbite&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
-
-
-| Estatísticas | Gráfico de Atividade |
-|--------------|----------------------|
-|<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vitorbite&theme=chartreuse-dark" width="400"> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=vitorbite&theme=chartreuse-dark&hide_border=true&area=true" height="500"> |
+| Github Status| Estatísticas |
+|--------------|--------------|
+|[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=vitorbite&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast) | <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vitorbite&theme=chartreuse-dark" width="200">|
 
